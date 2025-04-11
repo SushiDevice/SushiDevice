@@ -3,7 +3,7 @@
 
 I am becoming familiar with these technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,sqlite)](https://skillicons.dev)
 <!--
 **SushiDevice/SushiDevice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
