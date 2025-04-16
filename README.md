@@ -4,6 +4,8 @@
 I am becoming familiar with these technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,sqlite)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy)
+
 <!--
 **SushiDevice/SushiDevice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
